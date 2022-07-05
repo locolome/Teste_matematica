@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\bin\Debug\Teste_matematica.exe.config
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\bin\Debug\Teste_matematica.exe
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\bin\Debug\Teste_matematica.pdb
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.Form1.resources
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.Properties.Resources.resources
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.exe
+C:\Users\Aluno\Desktop\a projetos senac\Teste_matematica\Teste_matematica\obj\Debug\Teste_matematica.pdb
